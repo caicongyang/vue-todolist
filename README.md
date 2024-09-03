@@ -15,6 +15,12 @@ My first Vue 3 project.
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Project create
+
+```sh
+npm create vue@latest
+```
+
 ## Project Setup
 
 ```sh
